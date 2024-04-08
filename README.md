@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## Available Scripts
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To make app run locally, please paste correct keys in `.env.example` file and rename it to `.env`
 
 ## Available Scripts
 
