@@ -1,4 +1,4 @@
-## Available Scripts
+## Attention
 
 To make app run locally, please paste correct keys in `.env.example` file and rename it to `.env`
 
